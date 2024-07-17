@@ -9,11 +9,11 @@ search_exclude: false
 last_modified_date: 2022-06-16
 ---
 
-# Creating a Backup Process asdfasdf
+# Creating a Backup Process
 
 ## The 3-2-1 Rule
 
-The basis of all backup plans revolves around the 3-2-1 rule. asdfaasdfsad
+The basis of all backup plans revolves around the 3-2-1 rule.
 
 That means 3 copies of your data, consisting of:
 * 2 of the copies are on different devices on-site
